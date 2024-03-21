@@ -74,7 +74,7 @@ const Menu = () => {
             <h3 className="-mt-10 text-center text-white font-bold uppercase text-xl">name</h3>
           </SwiperSlide>
         </Swiper>
-      </div>asdfasdfsadf
+      </div>asdfasdfsadfa sdf asdf asdfsa dfsdf sdf asf sfs ffsaf sdf sdf s f df
     </>
     
   );
